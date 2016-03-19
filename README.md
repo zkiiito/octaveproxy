@@ -8,6 +8,7 @@ Proxy for handling https in Octave on Windows.
 ```
 git clone git@github.com:zkiiito/octaveproxy.git
 cd octaveproxy
+npm install
 node index.js
 ```
 
